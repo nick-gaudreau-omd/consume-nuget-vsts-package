@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VstsPackage", "VstsPackage\VstsPackage.csproj", "{22418E21-089B-4C47-A416-C597672EFA27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeNugetVstsPckg", "ConsumeNugetVstsPckg.csproj", "{FC2063AB-9F86-493B-83D7-E66AC893555B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22418E21-089B-4C47-A416-C597672EFA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22418E21-089B-4C47-A416-C597672EFA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22418E21-089B-4C47-A416-C597672EFA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22418E21-089B-4C47-A416-C597672EFA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2063AB-9F86-493B-83D7-E66AC893555B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2063AB-9F86-493B-83D7-E66AC893555B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2063AB-9F86-493B-83D7-E66AC893555B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2063AB-9F86-493B-83D7-E66AC893555B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9E29976F-7364-4489-96C0-06DCDE00AAE9}
+		SolutionGuid = {3506682A-44D3-42E3-B572-0A438A717D88}
 	EndGlobalSection
 EndGlobal
